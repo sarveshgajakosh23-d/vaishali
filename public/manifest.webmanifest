@@ -1,0 +1,10 @@
+{
+  "name": "Emily Carter — a creative portfolio",
+  "short_name": "Emily Carter",
+  "description": "Emily Carter is a fine artist & illustrator. Explore her style, photography, gallery, and process in this scrapbook-style portfolio.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f4f1",
+  "theme_color": "#f7f4f1",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

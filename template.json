@@ -1,0 +1,13 @@
+{
+  "schema_version": 1,
+  "kind": "website",
+  "slug": "portfolio-website-template-dreamy-scrapbook-artist-illustrator-p",
+  "title": "Portfolio Website Template - Dreamy Scrapbook Artist & Illustrator Portfolio",
+  "summary": "Dreamy mauve/dusty-rose scrapbook portfolio for a fine artist and illustrator (Emily Carter) with a scrolling marquee of disciplines (Fine Art, Illustration, Graphic Design, Photography), a moody portrait hero with a 'meet the ARTIST' headline, big star shapes, film grain and sticker labels. Includes an About My Work collage, an interactive word-search grid that jumps to sections, a Style moodboard, Visuals photography, an Art Gallery, a Behind the Scenes process section with studio notes, a services list and a Thank You contact footer. Fully phone responsive.",
+  "category": "Portfolio",
+  "prompt": "Create a dreamy one-page creative portfolio for a fine artist and illustrator in a mauve and dusty-rose scrapbook style with film grain texture, big star shapes, sticker labels, handwritten accents and bold condensed headings. Start with a scrolling marquee bar (Fine Art, Illustration, Graphic Design, Photography). Hero: a small handle '@emilycarter.art - a creative portfolio', a large 'meet the ARTIST' headline, a short intro, a 'Scroll to explore' cue and a moody portrait photo tagged 'portfolio N01'. Add an About My Work collage section with medium tags (acrylic & gouache, 35mm film, daily sketchbook), an interactive word-search letter grid where the hidden words style, visuals, gallery, process and hello jump to their sections, a Style moodboard, a Visuals photography section, a 'welcome to my ART GALLERY' grid with a quote, a Behind the Scenes graphic design and process section with studio notes, a services strip (Gallery Shows, Commissions, Editorial Illustration, Workshops) and a Thank You contact footer with email and socials.",
+  "brief": "site",
+  "min_plan": "free",
+  "thumbnail": "preview/slide-01.webp",
+  "demo_url": "https://portfolio.site.orvisai.com/"
+}
